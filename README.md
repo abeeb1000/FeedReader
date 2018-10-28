@@ -33,7 +33,7 @@
 * Icon: [Icomoon](https://icomoon.io/)
 * Fonts: [Google Fonts](https://fonts.google.com/)
 
-## Contributing
+## Author
   - Abeeb Ridwan
 
 ## License
