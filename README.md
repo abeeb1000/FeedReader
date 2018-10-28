@@ -11,7 +11,7 @@
 - web browser e.g. chrome
 
 ## Deployment
-  Take a look at the live version [here....](https://abeeb1000.github.io/Feed-Reader-Testing/)
+  Take a look at the live version [here....](https://abeeb1000.github.io/FeedReader/)
 
 ## Built With
 - HTML
